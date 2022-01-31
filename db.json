@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "book": "Harry Potter",
+      "author": "JK Rowling",
+      "comments": [
+        "Nice Book",
+        " Epic Story"
+      ],
+      "id": 1
+    },
+    {
+      "book": "Harry Potter",
+      "author": "JK Rowling",
+      "comments": [
+        "Nice Book",
+        " Epic Story"
+      ],
+      "id": 2
+    },
+    {
+      "book": "C Programming",
+      "author": "Dennis",
+      "comments": "Awesome",
+      "id": 3
+    },
+    {
+      "book": "DBMS",
+      "author": "henry",
+      "comments": "tough to understand",
+      "id": 3
+    },
+    {
+      "book": "Unix",
+      "author": "Ritchie",
+      "comments": "Best Book on Linux",
+      "id": 4
+    }
+  ]
+}
